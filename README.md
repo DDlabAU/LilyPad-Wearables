@@ -2,4 +2,4 @@
 
 ## LilyPads der findes i labbet:
 
-![LilyPad USB](LilyPad/lilypadusb.jpg | width=20)
+![LilyPad USB](LilyPad/lilypadusb.jpg)
