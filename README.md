@@ -35,9 +35,7 @@ Boardet fungerer på samme måde som et almindeligt arduino uno board. I stedet 
 
 ### Eksempel på opsætning med LED: 
 
-![](LilyPad/ss1.jpg)
-
-![](LilyPad/ss2.jpg)
+![](LilyPad/ss1.jpg) ![](LilyPad/ss2.jpg)
 
 Her er conductive(ledende) tråd brugt, som ses på billedet nedenfor! 
 
